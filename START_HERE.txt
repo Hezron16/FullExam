@@ -1,0 +1,10 @@
+HANDAPH — START HERE
+
+1. Extract this folder.
+2. Open index.html in Chrome, Edge, or Firefox.
+3. Keep css/, js/, images/, and videos/ beside the HTML files.
+4. Read Project_Design_Plan.md for the project plan.
+5. Read README.md for features, testing, and GitHub Pages publishing notes.
+
+This project contains 18 HTML pages, 10 original SVG illustrations, and 5 original MP4 learning clips.
+No Bootstrap or CSS framework is used.
